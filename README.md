@@ -13,7 +13,18 @@ This repo contains a simple, reproducible A/B test workflow:
 ---
 
 ## 📂 Project Structure
-
+ab-testing-onboarding/
+├─ data/
+│  └─ ab_onboarding_full.csv
+├─ notebooks/
+│  └─ ab_test_onboarding.ipynb
+├─ reports/
+│  └─ figures/
+│     ├─ ab_activation_ci.png
+│     └─ power_curve.png
+├─ README.md
+├─ requirements.txt   # OR environment.yml
+└─ .gitignore
 ---
 
 ## 🔧 Environment & Setup

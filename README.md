@@ -14,7 +14,7 @@ This repo contains a simple, reproducible A/B test workflow:
 
 ## 🗂️ Data
 
-- **File:** `data/ab_onboarding_full.csv`  
+- **File:** `ab_onboarding_full.csv`  
 - **Rows:** 2,000 (A=1000, B=1000)  
 - **Columns:**  
   - `user_id` — unique identifier  
@@ -29,7 +29,7 @@ Synthetic but realistic: slight country/device effects, binary target `activated
 
 ## 📓 Notebook Walkthrough
 
-Open `notebooks/ab_test_onboarding.ipynb` and run cells in order:
+Open `AB-Testing.ipynb` and run cells in order:
 
 1. **Load & quick EDA** → preview rows, counts per variant  
 2. **Activation rates & uplift** → compute pA, pB, absolute uplift  

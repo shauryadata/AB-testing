@@ -1,4 +1,4 @@
-# A/B Testing — Onboarding Activation 
+# A/B Testing - Onboarding Activation 
 
 **Goal:** Does Variant **B** increase 7-day activation compared to **A**?
 
